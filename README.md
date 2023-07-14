@@ -3,6 +3,9 @@ StepCounterWidget is an iOS application widget specifically designed as a small 
 
 ## Screen Video
 
+https://github.com/Ktamim98/StepCounterWidget/assets/124142522/d94c4ede-125b-4f1e-88fb-2947555207fa
+
+
 
 ## Functionality
 - Step Counting: StepCounterWidget accurately tracks and counts the number of steps taken by the user.
